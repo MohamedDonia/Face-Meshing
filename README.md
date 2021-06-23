@@ -7,6 +7,7 @@ Additionally, the solution is bundled with the Face Geometry module that bridges
 It establishes a metric 3D space and uses the face landmark screen positions to estimate face geometry within that space.
 
 ![21](https://user-images.githubusercontent.com/81274360/123141071-42ed7180-d458-11eb-8a7c-530bd569b06d.PNG)
-![1](https://user-images.githubusercontent.com/81274360/123141096-4bde4300-d458-11eb-8c4d-3d46a95f8c0c.PNG)
 ![2](https://user-images.githubusercontent.com/81274360/123141112-53055100-d458-11eb-8534-607bd4f9e59a.PNG)
+![1](https://user-images.githubusercontent.com/81274360/123141096-4bde4300-d458-11eb-8c4d-3d46a95f8c0c.PNG)
+
 
